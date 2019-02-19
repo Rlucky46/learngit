@@ -1,5 +1,5 @@
 Git is a distributed version control system.
 Git is free software distributed under the GPL
 test 本地内容推送到Github远程仓库
-test 分支修改并合并到master
+test 分支修改并合并到master冲突master
 
